@@ -118,9 +118,3 @@ The Python scripts are helpful, but they are not the core idea.
 - Optional: the Python helpers that automate installation and structured logging
 
 If you prefer a pure prompt-driven workflow, you can keep the state files and embedded snippet and ignore the helper scripts.
-
-## Repository Notes
-
-- This folder is ready to publish as its own GitHub repository.
-- `.gitignore` excludes common macOS and Python junk files.
-- The license is MIT by default so others can reuse and adapt the skill kit.
