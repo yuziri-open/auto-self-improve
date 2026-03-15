@@ -1,0 +1,3 @@
+display_name: Auto Self-Improve Skill
+short_description: Add a safe self-improvement loop to any Codex skill
+default_prompt: Install a self-improvement loop into this skill so it records experiments, lessons, invariants, and next actions on every invocation.
